@@ -5,3 +5,4 @@ langchain_openai
 dotenv
 langgraph-checkpoint-sqlite
 langchain_community
+langchain-text-splitters
