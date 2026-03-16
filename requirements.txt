@@ -3,3 +3,5 @@ langchain
 langgraph
 langchain_openai
 dotenv
+langgraph-checkpoint-sqlite
+langchain_community
